@@ -8,7 +8,8 @@ Classifying text data from articles of 5 different categories: <br>
 
 Dataset consists of 2225 documents from a news website 
 corresponding to stories in five topical areas from 2004-2005.<br>
-First line of each txt file is the title of the article.
+First line of each txt file is the title of the article.<br>
+Dataset file tree: 
 
 ````
 data-mining-assignment-2
